@@ -58,3 +58,6 @@
   <p>This project is licensed under the MIT. Read the <a href="MIT">MIT</a> file for more information.</p>
 </body>
 </html>
+
+### Step 1 ###
+![Step 1](https://github.com/elfeenah/BuyBuy-E-commerce-Company/assets/111433655/22ed14b7-4fd4-4517-ad61-2ae329ff9c1f)
