@@ -1,0 +1,46 @@
+FOLLOW THE FOLLOWING STEPS TO COPY YOUR DATASETS INTO YOUR PGADMIN
+
+/* STEP 1: Create a new database for your company */
+
+CREATE DATABASE Buybuy_company;
+
+
+/* STEP 2: Execute the following code to create a new table in your database */
+
+CREATE TABLE sales_data (
+    sales_date date,
+    sales_year varchar,
+    cus_id varchar,
+	cus_age int,
+    cus_gender varchar,
+    cus_country text,
+    cus_state text,
+    prod_category varchar,
+    prod_subcategory varchar,
+    product varchar,
+    ord_quantity int,
+    unit_cost int,
+    unit_price int,
+    cost int,
+    revenue int
+    );
+
+
+/* 
+STEP 3
+Execute the following code to copy CSV data into your database 
+*/
+
+COPY sales_data 
+FROM 'D:\DATASETS\CompanyX_sales_dataset.csv'
+DELIMITER ',' CSV 
+HEADER;
+
+
+/* 
+STEP 4
+Execute the following code to display the newly imported data in your database 
+*/
+
+SELECT *
+FROM sales_data;
