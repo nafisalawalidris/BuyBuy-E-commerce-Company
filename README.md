@@ -61,3 +61,7 @@
 
 ### Step 1 ###
 ![Step 1](https://github.com/elfeenah/BuyBuy-E-commerce-Company/assets/111433655/22ed14b7-4fd4-4517-ad61-2ae329ff9c1f)
+
+### Step 2 ###
+![Step 2](https://github.com/elfeenah/BuyBuy-E-commerce-Company/assets/111433655/00dffd68-a038-472f-8607-796c5a290efc)
+
