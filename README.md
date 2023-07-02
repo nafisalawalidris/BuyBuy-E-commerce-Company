@@ -78,7 +78,10 @@
 ![Step 6](https://github.com/elfeenah/BuyBuy-E-commerce-Company/assets/111433655/27a93edb-9c0e-4675-b5b2-27f84e7c4466)
 
 ### Step 7 ###
-![Step 7](https://github.com/elfeenah/BuyBuy-E-commerce-Company/assets/111433655/ba66f2ca-c5c3-4da4-b368-c3fc9acc3a26)
+![Step 7](https://github.com/elfeenah/BuyBuy-E-commerce-Company/assets/111433655/7acb6173-bd0b-4a46-9be2-122c35f8fbae)
 
 ### Step 8 ###
 ![Step 8](https://github.com/elfeenah/BuyBuy-E-commerce-Company/assets/111433655/fbf3c71f-63b3-4aac-95ac-d35943d69f79)
+
+### Step 9 ###
+![Step 9](https://github.com/elfeenah/BuyBuy-E-commerce-Company/assets/111433655/7f0049e8-732a-463f-bb13-a83429949987)
